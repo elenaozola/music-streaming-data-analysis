@@ -72,6 +72,7 @@ This indicates strong global popularity of specific tracks.
 ---
 
 ## 📁 Project Structure
+```
 music-streaming-data-analysis/
 │
 |── data/
@@ -85,7 +86,7 @@ music-streaming-data-analysis/
 │ └── event_distribution.png
 │
 └── README.md
-
+```
 ---
 
 ## 📎 Dataset
