@@ -75,8 +75,6 @@ This indicates strong global popularity of specific tracks.
 ```
 music-streaming-data-analysis/
 │
-|── data/
-|
 ├── notebook/
 │ └── analysis.ipynb
 │
@@ -84,6 +82,9 @@ music-streaming-data-analysis/
 │ ├── activity_over_time.png
 │ ├── country_activity.png
 │ └── event_distribution.png
+│
+├── data/
+│ └── (dataset not included)
 │
 └── README.md
 ```
